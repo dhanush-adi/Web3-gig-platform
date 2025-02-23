@@ -88,7 +88,7 @@ Deploying Smart Contracts
 
 1. Running the Front End:
    ```sh
-   npm start
+   npm run dev
 
 2. Open your browser and navigate to http://localhost:3000
    
