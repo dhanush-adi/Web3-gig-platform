@@ -154,22 +154,22 @@ const ListItem = ({
 const freelancerCategories = [
   {
     title: "Top Rated",
-    href: "/",
+    href: "/freelancers/top-rated",
     description: "Browse our highest-rated freelance professionals",
   },
   {
     title: "Recently Active",
-    href: "/",
+    href: "/freelancers/recently-active",
     description: "Find freelancers who are currently available",
   },
   {
     title: "By Skill",
-    href: "/",
+    href: "/freelancers/skills",
     description: "Search freelancers by specific skills and expertise",
   },
   {
     title: "By Category",
-    href: "/",
+    href: "/freelancers/categories",
     description: "Browse freelancers by service category",
   },
 ];
